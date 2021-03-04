@@ -1,0 +1,12 @@
+/Users/norm/Projects/Lession1/ArrayObject/bin/Debug/netcoreapp3.1/ArrayObject.deps.json
+/Users/norm/Projects/Lession1/ArrayObject/bin/Debug/netcoreapp3.1/ArrayObject.runtimeconfig.json
+/Users/norm/Projects/Lession1/ArrayObject/bin/Debug/netcoreapp3.1/ArrayObject.runtimeconfig.dev.json
+/Users/norm/Projects/Lession1/ArrayObject/bin/Debug/netcoreapp3.1/ArrayObject.dll
+/Users/norm/Projects/Lession1/ArrayObject/bin/Debug/netcoreapp3.1/ArrayObject.pdb
+/Users/norm/Projects/Lession1/ArrayObject/obj/Debug/netcoreapp3.1/ArrayObject.csprojAssemblyReference.cache
+/Users/norm/Projects/Lession1/ArrayObject/obj/Debug/netcoreapp3.1/ArrayObject.AssemblyInfoInputs.cache
+/Users/norm/Projects/Lession1/ArrayObject/obj/Debug/netcoreapp3.1/ArrayObject.AssemblyInfo.cs
+/Users/norm/Projects/Lession1/ArrayObject/obj/Debug/netcoreapp3.1/ArrayObject.csproj.CoreCompileInputs.cache
+/Users/norm/Projects/Lession1/ArrayObject/obj/Debug/netcoreapp3.1/ArrayObject.dll
+/Users/norm/Projects/Lession1/ArrayObject/obj/Debug/netcoreapp3.1/ArrayObject.pdb
+/Users/norm/Projects/Lession1/ArrayObject/obj/Debug/netcoreapp3.1/ArrayObject.genruntimeconfig.cache

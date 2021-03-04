@@ -1,0 +1,12 @@
+/Users/norm/Projects/Lession1/PersonOOP2/bin/Debug/netcoreapp3.1/PersonOOP2.deps.json
+/Users/norm/Projects/Lession1/PersonOOP2/bin/Debug/netcoreapp3.1/PersonOOP2.runtimeconfig.json
+/Users/norm/Projects/Lession1/PersonOOP2/bin/Debug/netcoreapp3.1/PersonOOP2.runtimeconfig.dev.json
+/Users/norm/Projects/Lession1/PersonOOP2/bin/Debug/netcoreapp3.1/PersonOOP2.dll
+/Users/norm/Projects/Lession1/PersonOOP2/bin/Debug/netcoreapp3.1/PersonOOP2.pdb
+/Users/norm/Projects/Lession1/PersonOOP2/obj/Debug/netcoreapp3.1/PersonOOP2.csprojAssemblyReference.cache
+/Users/norm/Projects/Lession1/PersonOOP2/obj/Debug/netcoreapp3.1/PersonOOP2.AssemblyInfoInputs.cache
+/Users/norm/Projects/Lession1/PersonOOP2/obj/Debug/netcoreapp3.1/PersonOOP2.AssemblyInfo.cs
+/Users/norm/Projects/Lession1/PersonOOP2/obj/Debug/netcoreapp3.1/PersonOOP2.csproj.CoreCompileInputs.cache
+/Users/norm/Projects/Lession1/PersonOOP2/obj/Debug/netcoreapp3.1/PersonOOP2.dll
+/Users/norm/Projects/Lession1/PersonOOP2/obj/Debug/netcoreapp3.1/PersonOOP2.pdb
+/Users/norm/Projects/Lession1/PersonOOP2/obj/Debug/netcoreapp3.1/PersonOOP2.genruntimeconfig.cache

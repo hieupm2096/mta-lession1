@@ -1,0 +1,12 @@
+/Users/norm/Projects/Lession1/PersonDefineClass/bin/Debug/netcoreapp3.1/PersonDefineClass.deps.json
+/Users/norm/Projects/Lession1/PersonDefineClass/bin/Debug/netcoreapp3.1/PersonDefineClass.runtimeconfig.json
+/Users/norm/Projects/Lession1/PersonDefineClass/bin/Debug/netcoreapp3.1/PersonDefineClass.runtimeconfig.dev.json
+/Users/norm/Projects/Lession1/PersonDefineClass/bin/Debug/netcoreapp3.1/PersonDefineClass.dll
+/Users/norm/Projects/Lession1/PersonDefineClass/bin/Debug/netcoreapp3.1/PersonDefineClass.pdb
+/Users/norm/Projects/Lession1/PersonDefineClass/obj/Debug/netcoreapp3.1/PersonDefineClass.csprojAssemblyReference.cache
+/Users/norm/Projects/Lession1/PersonDefineClass/obj/Debug/netcoreapp3.1/PersonDefineClass.AssemblyInfoInputs.cache
+/Users/norm/Projects/Lession1/PersonDefineClass/obj/Debug/netcoreapp3.1/PersonDefineClass.AssemblyInfo.cs
+/Users/norm/Projects/Lession1/PersonDefineClass/obj/Debug/netcoreapp3.1/PersonDefineClass.csproj.CoreCompileInputs.cache
+/Users/norm/Projects/Lession1/PersonDefineClass/obj/Debug/netcoreapp3.1/PersonDefineClass.dll
+/Users/norm/Projects/Lession1/PersonDefineClass/obj/Debug/netcoreapp3.1/PersonDefineClass.pdb
+/Users/norm/Projects/Lession1/PersonDefineClass/obj/Debug/netcoreapp3.1/PersonDefineClass.genruntimeconfig.cache

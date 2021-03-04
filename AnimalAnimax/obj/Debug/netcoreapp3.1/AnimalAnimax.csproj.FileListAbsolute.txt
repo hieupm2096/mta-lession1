@@ -1,0 +1,12 @@
+/Users/norm/Projects/Lession1/AnimalAnimax/bin/Debug/netcoreapp3.1/AnimalAnimax.deps.json
+/Users/norm/Projects/Lession1/AnimalAnimax/bin/Debug/netcoreapp3.1/AnimalAnimax.runtimeconfig.json
+/Users/norm/Projects/Lession1/AnimalAnimax/bin/Debug/netcoreapp3.1/AnimalAnimax.runtimeconfig.dev.json
+/Users/norm/Projects/Lession1/AnimalAnimax/bin/Debug/netcoreapp3.1/AnimalAnimax.dll
+/Users/norm/Projects/Lession1/AnimalAnimax/bin/Debug/netcoreapp3.1/AnimalAnimax.pdb
+/Users/norm/Projects/Lession1/AnimalAnimax/obj/Debug/netcoreapp3.1/AnimalAnimax.csprojAssemblyReference.cache
+/Users/norm/Projects/Lession1/AnimalAnimax/obj/Debug/netcoreapp3.1/AnimalAnimax.AssemblyInfoInputs.cache
+/Users/norm/Projects/Lession1/AnimalAnimax/obj/Debug/netcoreapp3.1/AnimalAnimax.AssemblyInfo.cs
+/Users/norm/Projects/Lession1/AnimalAnimax/obj/Debug/netcoreapp3.1/AnimalAnimax.csproj.CoreCompileInputs.cache
+/Users/norm/Projects/Lession1/AnimalAnimax/obj/Debug/netcoreapp3.1/AnimalAnimax.dll
+/Users/norm/Projects/Lession1/AnimalAnimax/obj/Debug/netcoreapp3.1/AnimalAnimax.pdb
+/Users/norm/Projects/Lession1/AnimalAnimax/obj/Debug/netcoreapp3.1/AnimalAnimax.genruntimeconfig.cache

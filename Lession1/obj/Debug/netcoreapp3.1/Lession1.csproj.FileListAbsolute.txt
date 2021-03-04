@@ -1,0 +1,12 @@
+/Users/norm/Projects/Lession1/Lession1/bin/Debug/netcoreapp3.1/Lession1.deps.json
+/Users/norm/Projects/Lession1/Lession1/bin/Debug/netcoreapp3.1/Lession1.runtimeconfig.json
+/Users/norm/Projects/Lession1/Lession1/bin/Debug/netcoreapp3.1/Lession1.runtimeconfig.dev.json
+/Users/norm/Projects/Lession1/Lession1/bin/Debug/netcoreapp3.1/Lession1.dll
+/Users/norm/Projects/Lession1/Lession1/bin/Debug/netcoreapp3.1/Lession1.pdb
+/Users/norm/Projects/Lession1/Lession1/obj/Debug/netcoreapp3.1/Lession1.csprojAssemblyReference.cache
+/Users/norm/Projects/Lession1/Lession1/obj/Debug/netcoreapp3.1/Lession1.AssemblyInfoInputs.cache
+/Users/norm/Projects/Lession1/Lession1/obj/Debug/netcoreapp3.1/Lession1.AssemblyInfo.cs
+/Users/norm/Projects/Lession1/Lession1/obj/Debug/netcoreapp3.1/Lession1.csproj.CoreCompileInputs.cache
+/Users/norm/Projects/Lession1/Lession1/obj/Debug/netcoreapp3.1/Lession1.dll
+/Users/norm/Projects/Lession1/Lession1/obj/Debug/netcoreapp3.1/Lession1.pdb
+/Users/norm/Projects/Lession1/Lession1/obj/Debug/netcoreapp3.1/Lession1.genruntimeconfig.cache

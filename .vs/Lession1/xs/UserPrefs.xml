@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{436159C8-ABC5-441D-A7A6-0A276831D38D}|Default">
+  <MonoDevelop.Ide.ItemProperties.LopNguoi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AnimalAnimax FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PersonDefineClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lession1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lession1/Program.cs">
+    <Files>
+      <File FileName="LopNguoi/Program.cs" Line="5" Column="5" />
+      <File FileName="PersonOOP2/Program.cs" Line="23" Column="27" />
+      <File FileName="AnimalAnimax/Program.cs" Line="19" Column="15" />
+      <File FileName="Lession1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lession1" expanded="True">
+            <Node name="AnimalAnimax" expanded="True" />
+            <Node name="ArrayObject" expanded="True" />
+            <Node name="Lession1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="LopNguoi" expanded="True" />
+            <Node name="PersonAbstract" expanded="True" />
+            <Node name="PersonDefineClass" expanded="True" />
+            <Node name="PersonOOP2" expanded="True" />
+            <Node name="PersonOverloading" expanded="True" />
+            <Node name="TinhTienDienThoai" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PersonOverloading FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PersonAbstract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ArrayObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TinhTienDienThoai FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PersonOOP2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

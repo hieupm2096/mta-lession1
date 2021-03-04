@@ -1,0 +1,12 @@
+/Users/norm/Projects/Lession1/LopNguoi/obj/Debug/netcoreapp3.1/LopNguoi.csprojAssemblyReference.cache
+/Users/norm/Projects/Lession1/LopNguoi/obj/Debug/netcoreapp3.1/LopNguoi.AssemblyInfoInputs.cache
+/Users/norm/Projects/Lession1/LopNguoi/obj/Debug/netcoreapp3.1/LopNguoi.AssemblyInfo.cs
+/Users/norm/Projects/Lession1/LopNguoi/obj/Debug/netcoreapp3.1/LopNguoi.csproj.CoreCompileInputs.cache
+/Users/norm/Projects/Lession1/LopNguoi/bin/Debug/netcoreapp3.1/LopNguoi.deps.json
+/Users/norm/Projects/Lession1/LopNguoi/bin/Debug/netcoreapp3.1/LopNguoi.runtimeconfig.json
+/Users/norm/Projects/Lession1/LopNguoi/bin/Debug/netcoreapp3.1/LopNguoi.runtimeconfig.dev.json
+/Users/norm/Projects/Lession1/LopNguoi/bin/Debug/netcoreapp3.1/LopNguoi.dll
+/Users/norm/Projects/Lession1/LopNguoi/bin/Debug/netcoreapp3.1/LopNguoi.pdb
+/Users/norm/Projects/Lession1/LopNguoi/obj/Debug/netcoreapp3.1/LopNguoi.dll
+/Users/norm/Projects/Lession1/LopNguoi/obj/Debug/netcoreapp3.1/LopNguoi.pdb
+/Users/norm/Projects/Lession1/LopNguoi/obj/Debug/netcoreapp3.1/LopNguoi.genruntimeconfig.cache
